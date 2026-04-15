@@ -3,6 +3,6 @@ Hi 👋, I'm Zaid Zerei 💻 Computer Scientist | AI &amp; Data Enthusiast
 # About Me
 
 🎓 Computer Science student<br>
-🧠 Interested in AI, Machine Learning & Data Science
-🔐 Passionate about Cyber Security
-⚙️ Love building bots & automation tools
+🧠 Interested in AI, Machine Learning & Data Science <br>
+🔐 Passionate about Cyber Security <br>
+⚙️ Love building bots & automation tools <br>
